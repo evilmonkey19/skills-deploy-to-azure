@@ -9,7 +9,7 @@
 
 # Deploy to Azure
 
-_Create two deployment workflows using GitHub Actions and Microsoft Azure._
+_Create two deployment workflows using GitHub Actions and Microsoft Azure._ 
 
 </header>
 
